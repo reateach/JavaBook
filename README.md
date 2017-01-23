@@ -1,2 +1,2 @@
 # JavaBook
-Java Textbook Supplment
+Java Textbook Supplement
