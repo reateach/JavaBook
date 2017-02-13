@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javadoc;
+package javadoc; //change the package name.
 
 /**
  *
@@ -22,13 +22,13 @@ public class Strings {
         //the above line is just a print statement
         System.out.println("Hello World"); 
         
-        //Concating Strings
+        //Concatenating Strings
         //By using the concatination operator I can combine multiple strings
         System.out.println("Hello" + " Mr. Clause");
 
 
         //Declaring string varables
-        //Below i have declared 2 seperate variables using the String keyword
+        //Below i have declared two separate variables using the String keyword
         String greeting = "Hello! ";
         String name = "Thomas";
         
